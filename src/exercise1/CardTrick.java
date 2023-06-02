@@ -80,7 +80,7 @@ public class CardTrick {
      * replace this information with your own.
      * @author Hevin Vadodariya may 26 2022
      */
-    // I'm Done!
+    
     private static void printInfo() {
         // printinfo()
         System.out.println("Congratulations, you guessed right!");
