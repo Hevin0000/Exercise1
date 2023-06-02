@@ -82,7 +82,7 @@ public class CardTrick {
      * replace this information with your own.
      * @author Hevin Vadodariya may 26 2022
      */
-    //I am Done!
+    //I am Done!!
     private static void printInfo() {
         // printinfo(Hevin Vadodariya)
         System.out.println("Congratulations, you guessed right!");
