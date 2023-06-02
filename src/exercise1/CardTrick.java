@@ -84,7 +84,7 @@ public class CardTrick {
      */
     
     private static void printInfo() {
-        // printinfo()
+        // printinfo(Hevin Vadodariya)
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
