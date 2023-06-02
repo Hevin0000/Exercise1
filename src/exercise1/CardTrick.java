@@ -11,6 +11,7 @@ package exercise1;
 import java.util.Random;
 import java.util.Scanner;
 //Comment 1 
+//Comment Added in github
 public class CardTrick {
 
     private static final String[] SUITS = {"Hearts", "Diamonds", "Clubs", "Spades"};
